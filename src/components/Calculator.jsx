@@ -23,7 +23,7 @@ export default function Calculator() {
   }
 
   function clear(e) {
-    setNum(0)
+    setNum("")
     setOpertor("")
   }
 
