@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import './Calculator.css'
-import './titulo.js';
-// import Container from "@mui/material/Container";
-// import {Box} from "@mui/sysem";
+// import './titulo.js';
+
 
 export default function Calculator() {
   const [num, setNum] = useState("");
